@@ -19,7 +19,7 @@ and then the athentication key, the authentication key i make it static you can 
 ### `Installing`
 to install all dependencies use 
 ```
-npm start
+npm install
 ```
 or
 ```
