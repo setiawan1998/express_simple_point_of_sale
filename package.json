@@ -1,0 +1,28 @@
+{
+  "name": "pos_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setiawan1998/pos_backend.git"
+  },
+  "author": "setiawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setiawan1998/pos_backend/issues"
+  },
+  "homepage": "https://github.com/setiawan1998/pos_backend#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.1.0"
+  }
+}
